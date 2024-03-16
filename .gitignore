@@ -1,0 +1,11 @@
+# Direnv Cache
+.direnv/
+
+# Python Cache
+**/__pycache__/
+
+# LSP Cache
+.ccls-cache/
+
+# Temporary Files
+tmp/

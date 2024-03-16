@@ -1,0 +1,16 @@
+NFG 1 R "Incentivized Outsourced Computation"
+
+{
+  "Contractor 1"
+  "Contractor 2"
+}
+
+{
+  { "Lazy" "Diligent" }
+  { "Lazy" "Diligent" }
+}
+
+15.0 15.0
+20.0 -6.25
+-6.25 20.0
+10.0 10.0

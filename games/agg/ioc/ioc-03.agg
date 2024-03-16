@@ -1,0 +1,35 @@
+#AGG
+# More info about the .agg file-format at:
+# https://gambitproject.readthedocs.io/en/latest/formats.html#the-action-graph-game-agg-file-format
+
+# Player Count
+3
+
+# Action Nodes Count
+2
+
+# Function Nodes Count
+0
+
+# Player Action Set Sizes
+2 2 2
+
+# Action Sets
+0 1
+0 1
+0 1
+
+# Action Graph (Neighbor List Format)
+2 0 1
+2 0 1
+
+# Function Signatures
+# N/A
+
+# Payoff Functions
+# Lazy (0)
+0
+-16.25 -1.25 15.0
+# Diligent (1)
+0
+20.0 20.0 20.0
